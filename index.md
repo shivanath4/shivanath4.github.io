@@ -1,23 +1,18 @@
 ---
 layout: simple
-title: "Engineering Lead & Startup Advisor from Paris"
+title: "Vanakkam!"
 seotitle: "Marc G Gauthier - Engineering Lead & Startup Advisor from Paris"
 category: about
 description: "I'm a software engineer, technical leader and startup advisor. I blog about writing software, side projects, entrepreneurship, management and more."
 ---
+Hello there, I'm Shivanath.
 
-Hello, I'm [Marc][3]!
+I currently work as a Software Engineer II at Navi Technologies in Bangalore.
 
-I first started as a fullstack engineer for various startups in France and the US. I then worked as a technical lead and then evolved into  VP of Engineering at Drivy. The company was then acquired by [Getaround][1], the leading car sharing company working on building a viable alternative to car ownership. After this, I worked as Director of Engineering for [Back Market][5] during 3 years, contributing to reduce e-waste through its marketplace for refurbished electronics.
+I’ve been planning to write for a long time now, I think it’s time. It's nice to have a small corner in the internet which is fully yours. I hope writing unlike speaking can give me extra time and space to translate my intuitions and abstractions more effectively. I want this blog to a documentation of my relections and learnings.
 
-I've also taught many people how to build software in various ways, ranging from evening classes aimed at professionals, 1 on 1 executive coaching or even workshops for young teens. I've worked with large schools like HEC or HETIC, but also collaborated with many entrepreneurs to help them improve how they worked.
+I'm not sure if I'm passionate about anything really but there are things that I like to do more than the average person. I love to run, have deep conversations. The best conversations involve making fundamental connections among data points you already know. 
 
-Today, I'm building my own products as well as providing [dedicated help](/hire/) for various companies and executives to get them over roadblocks. If you want to hire me, please check out [this page][4] that gets into more details.
+I value intelligence, honesty, humility, goodness, openness. Although like everything, it's more complicated than that. If there's a visual representation of "It's complicated", that would be my tattoo. Or maybe "ifs and buts".
 
-If needed, you can reach me via [Linkedin][3] or using email "marcg.gauthier-at-gmail-dot-com". You can also follow me on [Bluesky][6].
-
-[1]:	https://getaround.com/
-[3]:	https://www.linkedin.com/in/marcggauthier
-[4]:	/hire/
-[5]:    https://www.backmarket.com/
-[6]:    https://bsky.app/profile/marcggauthier.bsky.social
+Hope you have a good time here!
