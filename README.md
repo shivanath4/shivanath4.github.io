@@ -1,17 +1,12 @@
-# marcgg.com
+# shivanath4.github.io
 
-This is my personal website running with jekyll and hosted on Github
-pages. Feel free to visit it on [marcgg.com](https://www.marcgg.com).
-
-Also if I were you I wouldn't pay too much attention to how everything
-is implemented here. I mostly spend my time here working on content,
-not on code.
+Shamelessly forked from http://github.com/marcgg/marcgg.github.com
 
 ## Setting it up
 
 ```
-git clone https://github.com/marcgg/marcgg.github.com.git
-cd marcgg.github.com
+git clone https://github.com/shivanath4/shivanath4.github.io
+
 ```
 
 Accept rvmrc prompt
@@ -19,7 +14,11 @@ Accept rvmrc prompt
 ```
 bundle install
 sudo easy_install Pygments
+Depending on Ruby version: 
+    bundle add base64
+    bundle add csv
 bundle exec jekyll serve --watch
+
 ```
 
 Access http://localhost:4000/ to see the blog
