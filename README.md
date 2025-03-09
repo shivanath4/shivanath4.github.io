@@ -14,7 +14,7 @@ Accept rvmrc prompt
 ```
 bundle install
 sudo easy_install Pygments
-Depending on Ruby version: 
+Depending on Ruby version you might or might not need: 
     bundle add base64
     bundle add csv
 bundle exec jekyll serve --watch
