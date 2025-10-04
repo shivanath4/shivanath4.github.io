@@ -1,5 +1,5 @@
 ---
-title: "How is Kafka so resilient? A stroll through my rabbit hole"
+title: "How is Kafka so resilient?"
 description: "About Kafka's durability and replication"
 tag: Life
 ogimage: "preview_tech_debt.png"
