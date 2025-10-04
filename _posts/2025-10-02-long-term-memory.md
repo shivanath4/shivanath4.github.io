@@ -57,11 +57,14 @@ It's a no-brainer that the more times you recollect, the better it will be etche
 
 While there isn't any straightforward way to measure this on a daily basis, you are naturally forced to recollect if you take on leadership roles — be it in work, be it in a conversation with your friend — it forces you to construct that graph (at least the important bits) every time you want to explain / talk about something.
 
-I tend to remember something that I love, and maybe that's because of repetition.
+I tend to remember something that I love, and maybe that's because of repetition or wonder.
+
+I want to reiterate on the fact that intentional logical links are better than random flow of thought links.
 
 1. **Weakly linked nodes:** These are not linked by anything significant. For example, if someone asks you "What did you do throughout the day?" It's just you going back and checking what you did yesterday. It does not have any connection. Morning I could have had a call with my parents, but afternoon I was maybe having a 1-1 with my manager and evening I went bowling.  
 2. **Strongly linked nodes:** Let's say someone asks you to recollect a story. Assuming you have made the graph very connected, you should be able to go to any point (forward or backward) from all the connections that you have had before. Point being, logical connections (that help in the story) are stronger than others. You ideally want both, but I think the second type of memory is long-term and more useful than the other.
 
+While a lot more can be said about memory, I want to conclude it for now. To summarize, if you think you have a weak memory - do dual-n-back, subvocalize as much as possiblbe, analyze as much as possiblbe, assume more leadership roles. Thanks for reading.
 
 ---
 
@@ -73,4 +76,5 @@ As with writing/anything, I ended up with more questions than answers. If you wa
 - If relations are "edges", what are the "nodes"? Is it the ill-constructed images (for the lack of a better term)?  
 - What's the role of one's ability to byheart affect creation of long term memory?  
 - Does short term memory have any bearing at all to long term memory?
-- Some days, I suck at recollections. What is the recipe for such a day so I can avoid?
+- Some days, I suck at recollecting simple things. What is the recipe for such a day so I can avoid?
+- How does deviating away from the norm impact memory (the wonder factor)?
