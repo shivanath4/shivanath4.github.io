@@ -1,5 +1,5 @@
 ---
-title: "Notes on Long Term Memory"
+title: "Exploring ways to improve my own long term memory"
 description: "Exploring ways to improve my own long term memory"
 tag: Life
 ogimage: "preview_n_back.png"
